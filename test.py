@@ -1,5 +1,6 @@
 from termcolor import cprint
 import emoji
+# Hello Sensei!
 
 print('Hello from CMD!')
 cprint("Hello, World!", "green", "on_red")
